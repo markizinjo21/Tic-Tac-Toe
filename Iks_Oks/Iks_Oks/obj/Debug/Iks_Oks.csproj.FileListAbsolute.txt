@@ -1,0 +1,12 @@
+C:\Users\kompu\source\repos\Iks_Oks\Iks_Oks\bin\Debug\Iks_Oks.exe.config
+C:\Users\kompu\source\repos\Iks_Oks\Iks_Oks\bin\Debug\Iks_Oks.exe
+C:\Users\kompu\source\repos\Iks_Oks\Iks_Oks\bin\Debug\Iks_Oks.pdb
+C:\Users\kompu\source\repos\Iks_Oks\Iks_Oks\obj\Debug\Iks_Oks.csproj.AssemblyReference.cache
+C:\Users\kompu\source\repos\Iks_Oks\Iks_Oks\obj\Debug\Iks_Oks.csproj.SuggestedBindingRedirects.cache
+C:\Users\kompu\source\repos\Iks_Oks\Iks_Oks\obj\Debug\Iks_Oks.Form1.resources
+C:\Users\kompu\source\repos\Iks_Oks\Iks_Oks\obj\Debug\Iks_Oks.Properties.Resources.resources
+C:\Users\kompu\source\repos\Iks_Oks\Iks_Oks\obj\Debug\Iks_Oks.csproj.GenerateResource.cache
+C:\Users\kompu\source\repos\Iks_Oks\Iks_Oks\obj\Debug\Iks_Oks.csproj.CoreCompileInputs.cache
+C:\Users\kompu\source\repos\Iks_Oks\Iks_Oks\obj\Debug\Iks_Oks.exe
+C:\Users\kompu\source\repos\Iks_Oks\Iks_Oks\obj\Debug\Iks_Oks.pdb
+C:\Users\kompu\source\repos\Iks_Oks\Iks_Oks\obj\Debug\Iks_Oks.KrajIgre.resources
